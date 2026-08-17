@@ -7,7 +7,7 @@ A modern desktop application built in Python using **PySide6 (Qt)** to convert `
 ![FFmpeg](https://img.shields.io/badge/Video%20Engine-imageio--ffmpeg-orange)
 
 ## Why I built this
-Little project I created because I couldn’t get H.264 files to play on any player I tried.  
+Little project I created because I couldn’t get Swann CCTV H.264 files to play on any player I tried.  
 I thought it would be a fun challenge to build a simple converter.
 
 AI was used to assist with code generation and development throughout this project
