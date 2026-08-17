@@ -494,7 +494,7 @@ class MainWindow(QMainWindow):
 
         # --- TOP HALF (Compact 2 Stretch) ---
         top_split_layout = QHBoxLayout()
-        top_split_layout.setSpacing        # Top-Left Card: Folder Selectors & Settings
+        top_split_layout.setSpacing(10)        # Top-Left Card: Folder Selectors & Settings
         controls_frame = QFrame()
         controls_frame.setStyleSheet("background-color: #242424; border-radius: 0px; border: 1px solid #333333; padding: 10px;")
         controls_layout = QVBoxLayout(controls_frame)
